@@ -34,15 +34,15 @@
 
 ## 📈 GitHub Stats
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAmil&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermedeAndradeLima&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAmil&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermedeAndradeLima&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🔥 Streak de Consistência
+## 🔥 Consistência
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GuilhermeAmil&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=GuilhermedeAndradeLima&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -69,4 +69,4 @@ Conquistar minha primeira oportunidade em **Dados / Tecnologia**, aplicando aná
 
 ## 👀 Visitantes
 
-![](https://komarev.com/ghpvc/?username=GuilhermeAmil&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=GuilhermedeAndradeLima&color=blue&style=for-the-badge)

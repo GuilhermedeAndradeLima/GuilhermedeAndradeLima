@@ -1,33 +1,72 @@
-# Olá, eu sou Guilherme de Andrade Lima 👋
+# 👨‍💻 Guilherme de Andrade Lima
 
-📊 Em transição para a área de tecnologia, com foco em Dados / Data Analyst e Python.  
-🚀 Buscando minha primeira oportunidade para aplicar conhecimento, crescer profissionalmente e gerar valor.  
-📚 Atualmente estudando e desenvolvendo projetos com foco em análise de dados, automação e lógica de programação.  
+## 📊 Data Analyst em formação | Python | SQL | Tecnologia orientada a resultados
+
+🚀 Profissional em transição para a área de tecnologia, com foco em **Dados, Python e soluções inteligentes**.  
+📚 Desenvolvendo projetos práticos para conquistar minha primeira oportunidade e gerar impacto real através da tecnologia.  
+🎯 Perfil movido por disciplina, aprendizado rápido e evolução constante.  
 ♾️ Always learning.
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 🌐 Conecte-se comigo
 
-Python | SQL | JavaScript | Java
-
----
-
-## 📈 Atualmente focado em:
-
-- Análise de Dados  
-- Python para automação  
-- SQL e Banco de Dados  
-- Desenvolvimento contínuo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20de%20Andrade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-andrade-7b271b120/)
 
 ---
 
-## 🎯 Objetivo Profissional
+## 🚀 Stack Principal
 
-Conquistar minha primeira oportunidade na área de tecnologia, contribuindo com projetos de dados e soluções inteligentes.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
-## 📫 Conecte-se comigo
+## 📚 Atualmente estudando
 
-LinkedIn: linkedin.com/in/guilherme-de-andrade-7b271b120
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAmil&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAmil&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔥 Streak de Consistência
+
+![GitHub Streak](https://streak-stats.demolab.com?user=GuilhermeAmil&theme=tokyonight&hide_border=true)
+
+---
+
+## 🎯 Objetivo Atual
+
+Conquistar minha primeira oportunidade em **Dados / Tecnologia**, aplicando análise, lógica e visão de negócio para entregar soluções reais.
+
+---
+
+## 💼 Projetos em desenvolvimento
+
+📌 Dashboard de Vendas com Python  
+📌 Análise de Dados com SQL  
+📌 Automação de Processos com Python  
+📌 Portfólio Profissional
+
+---
+
+## 💡 Filosofia
+
+> Pequenos avanços diários constroem grandes carreiras.
+
+---
+
+## 👀 Visitantes
+
+![](https://komarev.com/ghpvc/?username=GuilhermeAmil&color=blue&style=for-the-badge)
